@@ -13,3 +13,4 @@ The list of [Git interview](INTERVIEW.md) questions is a comprehensive guide to 
 We hope these resources are helpful to you as you learn and review Git concepts. If you have any questions or suggestions, please feel free to open an issue or pull request in this repository.
 
 Thank you for visiting!
+
